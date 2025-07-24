@@ -4,6 +4,14 @@
     "url": "https://raw.githubusercontent.com/SYFER-eng/Ai-ESP/main/Modules/CounterBlox%20(Terrorists%20Role%20Only).onnx"
   },
   {
+    "name": "FaceShapeEstimation-0004.onnx",
+    "url": "https://raw.githubusercontent.com/SYFER-eng/Ai-ESP/main/Modules/FaceShapeEstimation-0004.onnx"
+  },
+  {
+    "name": "HeadPoseModel.onnx",
+    "url": "https://raw.githubusercontent.com/SYFER-eng/Ai-ESP/main/Modules/HeadPoseModel.onnx"
+  },
+  {
     "name": "OtherModel.onnx",
     "url": "https://raw.githubusercontent.com/SYFER-eng/Ai-ESP/main/Modules/OtherModel.onnx"
   }
