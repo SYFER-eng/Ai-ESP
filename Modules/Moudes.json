@@ -1,18 +1,29 @@
 [
   {
-    "name": "CounterBlox (Terrorists Role Only).onnx",
-    "url": "https://raw.githubusercontent.com/SYFER-eng/Ai-ESP/main/Modules/CounterBlox%20(Terrorists%20Role%20Only).onnx"
+    "id": "counterblox_tt", 
+    "name": "CounterBlox (Terrorists Role Only)",
+    "description": "ESP model targeting CounterBlox terrorist players.",
+    "version": "1.0",
+    "url": "https://raw.githubusercontent.com/SYFER-eng/Ai-ESP/main/Modules/CounterBlox%20(Terrorists%20Role%20Only).onnx",
+    "file_size": 10485760,
+    "checksum": "sha256:abcdef1234567890abcdef1234567890abcdef1234567890abcdef1234567890"
   },
   {
-    "name": "FaceShapeEstimation-0004.onnx",
-    "url": "https://raw.githubusercontent.com/SYFER-eng/Ai-ESP/main/Modules/FaceShapeEstimation-0004.onnx"
+    "id": "faceshape_v4",
+    "name": "FaceShapeEstimation-0004",
+    "description": "Facial shape estimation model.",
+    "version": "0.4",
+    "url": "https://raw.githubusercontent.com/SYFER-eng/Ai-ESP/main/Modules/FaceShapeEstimation-0004.onnx",
+    "file_size": 5120000,
+    "checksum": "sha256:123456abcdef7890123456abcdef7890123456abcdef7890123456abcdef7890"
   },
   {
-    "name": "HeadPoseModel.onnx",
-    "url": "https://raw.githubusercontent.com/SYFER-eng/Ai-ESP/main/Modules/HeadPoseModel.onnx"
-  },
-  {
-    "name": "OtherModel.onnx",
-    "url": "https://raw.githubusercontent.com/SYFER-eng/Ai-ESP/main/Modules/OtherModel.onnx"
+    "id": "headpose_v1",
+    "name": "Head Pose Model",
+    "description": "Head pose tracking model for ESP overlays.",
+    "version": "1.0",
+    "url": "https://raw.githubusercontent.com/SYFER-eng/Ai-ESP/main/Modules/HeadPoseModel.onnx",
+    "file_size": 6240000,
+    "checksum": "sha256:7890abcdef1234567890abcdef1234567890abcdef1234567890abcdef123456"
   }
 ]
