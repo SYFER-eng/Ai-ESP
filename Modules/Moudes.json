@@ -1,1 +1,10 @@
-
+[
+  {
+    "name": "CounterBlox (Terrorists Role Only).onnx",
+    "url": "https://raw.githubusercontent.com/SYFER-eng/Ai-ESP/main/Modules/CounterBlox%20(Terrorists%20Role%20Only).onnx"
+  },
+  {
+    "name": "OtherModel.onnx",
+    "url": "https://raw.githubusercontent.com/SYFER-eng/Ai-ESP/main/Modules/OtherModel.onnx"
+  }
+]
